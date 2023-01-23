@@ -1,6 +1,6 @@
 <p>:grinning: Hello, my name is Devon<p>
 <p>Interested in full-stack engineering<p>
-<p>:whale: Currently learning front-end development<p>
+<p>:whale: Currently a front-end developer<p>
 <p>Reach me @ 7devpotter@gmail.com<p>
 
 <!---
